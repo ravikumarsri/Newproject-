@@ -16,7 +16,7 @@ public class Testng {
 
         System.out.println(array[b]);
 
-        int a[]  = new int [6];
+
     }
 
     }
